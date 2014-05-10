@@ -1,0 +1,8 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Metaprogramming in Ruby",
+    "packageVersion": "0.0.1",
+    "useSass": true,
+    "markdown": true
+  }
+}
